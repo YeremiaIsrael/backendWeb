@@ -1,5 +1,5 @@
 import React,{useRef} from 'react'
-import {ForkSpoon,Cateringe} from '../assets'
+import {ForkSpoon,Cateringe} from '../../assets'
 
 const Login = (props) => {
   return (
