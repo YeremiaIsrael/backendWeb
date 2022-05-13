@@ -1,3 +1,3 @@
-import Login './login'
+import Login from './login'
 
 export {Login}
